@@ -1,0 +1,207 @@
+
+/* Class = "UIButton"; configuration.title = "시작하기"; ObjectID = "1Q5-D5-0me"; */
+"1Q5-D5-0me.configuration.title" = "시작하기";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "1Q5-D5-0me"; */
+"1Q5-D5-0me.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "요청 보내기"; ObjectID = "39G-C6-j1Q"; */
+"39G-C6-j1Q.configuration.title" = "요청 보내기";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "39G-C6-j1Q"; */
+"39G-C6-j1Q.normalTitle" = "Button";
+
+/* Class = "UICommand"; title = "Item 1"; ObjectID = "3Ky-Rf-zHx"; */
+"3Ky-Rf-zHx.title" = "Item 1";
+
+/* Class = "UITabBarItem"; title = "보낸 편지함"; ObjectID = "4y0-Qd-yph"; */
+"4y0-Qd-yph.title" = "보낸 편지함";
+
+/* Class = "UILabel"; text = "LetterDataSource.date"; ObjectID = "6x9-kz-3Uv"; */
+"6x9-kz-3Uv.text" = "LetterDataSource.date";
+
+/* Class = "UILabel"; text = "메뉴"; ObjectID = "8CY-au-Gp8"; */
+"8CY-au-Gp8.text" = "메뉴";
+
+/* Class = "UIButton"; configuration.title = "회원 탈퇴"; ObjectID = "8FA-9r-1b3"; */
+"8FA-9r-1b3.configuration.title" = "회원 탈퇴";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8FA-9r-1b3"; */
+"8FA-9r-1b3.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "받은 편지함"; ObjectID = "9t5-z7-iOS"; */
+"9t5-z7-iOS.title" = "받은 편지함";
+
+/* Class = "UILabel"; text = "닉네임 변경"; ObjectID = "D6Q-pX-FUg"; */
+"D6Q-pX-FUg.text" = "닉네임 변경";
+
+/* Class = "UILabel"; text = "2023년 03월 21일"; ObjectID = "D99-NS-U3v"; */
+"D99-NS-U3v.text" = "2023년 03월 21일";
+
+/* Class = "UILabel"; text = "연결을 신청하고 밤편지를 시작해보세요."; ObjectID = "DYA-Rx-DRd"; */
+"DYA-Rx-DRd.text" = "연결을 신청하고 밤편지를 시작해보세요.";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "Djj-ad-0zf"; */
+"Djj-ad-0zf.normalTitle" = " ";
+
+/* Class = "UITextField"; placeholder = "친구코드 6자리를 입력해주세요"; ObjectID = "FKx-Sp-fKO"; */
+"FKx-Sp-fKO.placeholder" = "친구코드 6자리를 입력해주세요";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "G6m-9D-EdV"; */
+"G6m-9D-EdV.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "이용약관"; ObjectID = "GO0-Ge-dh4"; */
+"GO0-Ge-dh4.configuration.title" = "이용약관";
+
+/* Class = "UIButton"; normalTitle = "개인정보처리방침"; ObjectID = "GO0-Ge-dh4"; */
+"GO0-Ge-dh4.normalTitle" = "개인정보처리방침";
+
+/* Class = "UILabel"; text = "내 친구코드"; ObjectID = "JQ8-qg-LkJ"; */
+"JQ8-qg-LkJ.text" = "내 친구코드";
+
+/* Class = "UILabel"; text = "이메일 변경"; ObjectID = "LMn-Vr-pXE"; */
+"LMn-Vr-pXE.text" = "이메일 변경";
+
+/* Class = "UIButton"; configuration.title = "편지 보내기"; ObjectID = "Lqk-Sp-IBa"; */
+"Lqk-Sp-IBa.configuration.title" = "편지 보내기";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Lqk-Sp-IBa"; */
+"Lqk-Sp-IBa.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MSF-eb-ite"; */
+"MSF-eb-ite.text" = "Label";
+
+/* Class = "UILabel"; text = "\""; ObjectID = "Mqa-vW-NFa"; */
+"Mqa-vW-NFa.text" = "\"";
+
+/* Class = "UILabel"; text = "밥은 잘 챙겨 먹었어?"; ObjectID = "Nah-Cj-YwD"; */
+"Nah-Cj-YwD.text" = "밥은 잘 챙겨 먹었어?";
+
+/* Class = "UILabel"; text = "줄루루님과  편지를 주고 받은지 11일째"; ObjectID = "Owz-aR-nYy"; */
+"Owz-aR-nYy.text" = "줄루루님과  편지를 주고 받은지 11일째";
+
+/* Class = "UILabel"; text = "Date Label"; ObjectID = "PIn-rs-77C"; */
+"PIn-rs-77C.text" = "Date Label";
+
+/* Class = "UIButton"; configuration.title = " Apple로 로그인"; ObjectID = "Pvt-bP-Ege"; */
+"Pvt-bP-Ege.configuration.title" = " Apple로 로그인";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Pvt-bP-Ege"; */
+"Pvt-bP-Ege.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "제목을 입력해주세요"; ObjectID = "Uuu-79-CXX"; */
+"Uuu-79-CXX.placeholder" = "제목을 입력해주세요";
+
+/* Class = "UIButton"; configuration.title = " Google로 로그인"; ObjectID = "Uxj-Fw-88t"; */
+"Uxj-Fw-88t.configuration.title" = " Google로 로그인";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Uxj-Fw-88t"; */
+"Uxj-Fw-88t.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "2023년 3월 12일"; ObjectID = "Va8-rq-TIN"; */
+"Va8-rq-TIN.text" = "2023년 3월 12일";
+
+/* Class = "UITabBarItem"; title = "홈"; ObjectID = "VuV-o5-v9B"; */
+"VuV-o5-v9B.title" = "홈";
+
+/* Class = "UICommand"; title = "Item 2"; ObjectID = "W4V-1s-CcH"; */
+"W4V-1s-CcH.title" = "Item 2";
+
+/* Class = "UILabel"; text = "친구코드를 서로 입력하면  밤편지를 이용할 수 있어요"; ObjectID = "WyF-Ka-Ugr"; */
+"WyF-Ka-Ugr.text" = "친구코드를 서로 입력하면  밤편지를 이용할 수 있어요";
+
+/* Class = "UIButton"; configuration.title = "밤편지 사용방법"; ObjectID = "XZ1-Ar-Lvp"; */
+"XZ1-Ar-Lvp.configuration.title" = "밤편지 사용방법";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "XZ1-Ar-Lvp"; */
+"XZ1-Ar-Lvp.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "내 유저이름"; ObjectID = "Xy1-JL-xyk"; */
+"Xy1-JL-xyk.text" = "내 유저이름";
+
+/* Class = "UIButton"; configuration.title = "이메일 주소 변경하기"; ObjectID = "YAi-2u-4N0"; */
+"YAi-2u-4N0.configuration.title" = "이메일 주소 변경하기";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "YAi-2u-4N0"; */
+"YAi-2u-4N0.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "친구코드를 입력해 연결을 신청해주세요"; ObjectID = "aYD-1I-6yQ"; */
+"aYD-1I-6yQ.text" = "친구코드를 입력해 연결을 신청해주세요";
+
+/* Class = "UILabel"; text = "밤편지는 하루에 한 번, \n한 명의 상대에게 마음을 전해드려요."; ObjectID = "aZr-HQ-y70"; */
+"aZr-HQ-y70.text" = "밤편지는 하루에 한 번, \n한 명의 상대에게 마음을 전해드려요.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "blL-tS-HES"; */
+"blL-tS-HES.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "연결 신청하기"; ObjectID = "bt6-Pn-2hu"; */
+"bt6-Pn-2hu.configuration.title" = "연결 신청하기";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bt6-Pn-2hu"; */
+"bt6-Pn-2hu.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "연결이 완료되었습니다.\n이제 두 분의 밤편지를 전해드릴게요."; ObjectID = "eSX-IY-6Ux"; */
+"eSX-IY-6Ux.text" = "연결이 완료되었습니다.\n이제 두 분의 밤편지를 전해드릴게요.";
+
+/* Class = "UIButton"; configuration.title = "로그아웃"; ObjectID = "fAb-Dg-qmA"; */
+"fAb-Dg-qmA.configuration.title" = "로그아웃";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fAb-Dg-qmA"; */
+"fAb-Dg-qmA.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "내 친구코드"; ObjectID = "fBZ-nL-L4w"; */
+"fBZ-nL-L4w.text" = "내 친구코드";
+
+/* Class = "UILabel"; text = "안녕하세요 님"; ObjectID = "fiL-T6-wFD"; */
+"fiL-T6-wFD.text" = "안녕하세요 님";
+
+/* Class = "UILabel"; text = "\""; ObjectID = "hCp-vm-v4l"; */
+"hCp-vm-v4l.text" = "\"";
+
+/* Class = "UILabel"; text = "자정이 지나면 편지를 보낼 수 없어요"; ObjectID = "k3f-3t-khQ"; */
+"k3f-3t-khQ.text" = "자정이 지나면 편지를 보낼 수 없어요";
+
+/* Class = "UIButton"; configuration.title = "친구와 연결 끊기"; ObjectID = "lCN-uH-cvg"; */
+"lCN-uH-cvg.configuration.title" = "친구와 연결 끊기";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lCN-uH-cvg"; */
+"lCN-uH-cvg.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "내 친구코드"; ObjectID = "ldV-jg-tME"; */
+"ldV-jg-tME.text" = "내 친구코드";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "nRb-Kx-Nua"; */
+"nRb-Kx-Nua.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "nRb-Kx-Nua"; */
+"nRb-Kx-Nua.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "환영합니다!"; ObjectID = "pV4-DI-aYg"; */
+"pV4-DI-aYg.text" = "환영합니다!";
+
+/* Class = "UIButton"; configuration.title = "시작하기"; ObjectID = "puA-wA-GId"; */
+"puA-wA-GId.configuration.title" = "시작하기";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "puA-wA-GId"; */
+"puA-wA-GId.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "수정"; ObjectID = "rl1-mG-ZKH"; */
+"rl1-mG-ZKH.configuration.title" = "수정";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rl1-mG-ZKH"; */
+"rl1-mG-ZKH.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "상대방이 친구코드를  입력하길 기다리는 중입니다. "; ObjectID = "tHj-eE-c8k"; */
+"tHj-eE-c8k.text" = "상대방이 친구코드를  입력하길 기다리는 중입니다. ";
+
+/* Class = "UILabel"; text = "LetterDataSource.title"; ObjectID = "uS6-uz-ifX"; */
+"uS6-uz-ifX.text" = "LetterDataSource.title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wgQ-k2-68J"; */
+"wgQ-k2-68J.text" = "Label";
+
+/* Class = "UILabel"; text = "상대방 친구코드"; ObjectID = "wl4-tQ-Ceu"; */
+"wl4-tQ-Ceu.text" = "상대방 친구코드";
+
+/* Class = "UILabel"; text = "내 친구코드"; ObjectID = "xGW-Uj-Mnx"; */
+"xGW-Uj-Mnx.text" = "내 친구코드";

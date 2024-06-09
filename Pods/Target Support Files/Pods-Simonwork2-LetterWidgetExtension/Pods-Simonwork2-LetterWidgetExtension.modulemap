@@ -1,0 +1,6 @@
+framework module Pods_Simonwork2_LetterWidgetExtension {
+  umbrella header "Pods-Simonwork2-LetterWidgetExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}
