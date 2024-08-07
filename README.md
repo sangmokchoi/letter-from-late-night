@@ -16,7 +16,7 @@
   
 - 기술 구조 요약
   - **UI:** `Storyboard`, `UIKit`, `SwiftUI(위젯)`
-  - **Communication:** `Confluence`, `Jira`
+  - **Communication:** `Confluence`, `Figma`,`Jira`
   - **Architecture**: `MVC`
   - **Data Storage**: `Firebase Firestore`, `UserDefaults`
   - **Google**: `AdMob`, `Analytics`
@@ -76,31 +76,3 @@ CodeBased UI의 장점도 함께 공부했습니다. 빌드 및 실행 속도가
 
 
 </br>
-
-
-
-## 04. 기술 스택
-
-**Back**
-
-`Firebase`
-
-`Google Analytics`
-
-**Front**
-
-`Swift` 
-
-`UIKit`
-
-`SwiftUI`
-
-`Figma`
-
-**Communication**
-
-`Github`
-
-`Jira`
-
-`Confluence`
