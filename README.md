@@ -1,6 +1,8 @@
 # 밤편지: 마음을 주고받는 편지 한 통
-
-
+<img
+  src="https://github.com/user-attachments/assets/03e61e52-b788-4e26-a7ad-6d4791c97ded"
+  width="50%"
+/>
 </br>
 
 
