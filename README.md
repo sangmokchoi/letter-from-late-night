@@ -14,13 +14,13 @@
 - **App Store:** [<밤편지> 다운로드 바로가기 ](https://apps.apple.com/kr/app/밤편지-마음을-주고-받는-편지-한-통/id6448700074)
 
   
-
 - 기술 구조 요약
-  - **UI:** UIKit, SwiftUI(위젯), Storyboard
-  - **Communication:** Jira, Confluence
-  - **Architecture**: MVC
-  - **Data Storage**: Firebase, UserDefaults
-  - **Library/Framework:** GoogleMobileAds, GoogleSignIn, AuthenticationServices, CryptoKit, UserNotifications, EmojiPicker, BackgroundTasks 등
+  - **UI:** `Storyboard`, `UIKit`, `SwiftUI(위젯)`
+  - **Communication:** `Confluence`, `Jira`
+  - **Architecture**: `MVC`
+  - **Data Storage**: `Firebase Firestore`, `UserDefaults`
+  - **Google**: `AdMob`, `Analytics`
+  - **Library/Framework:** `AuthenticationServices`, `BackgroundTasks`, `CryptoKit`, `EmojiPicker`, `GoogleMobileAds`, `GoogleSignIn`, `UserNotifications`, 등
 
 </br>
 
