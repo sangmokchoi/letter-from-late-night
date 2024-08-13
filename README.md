@@ -11,7 +11,7 @@
 
 - **개발 기간:** 2023.03 - 2023.05
 
-- **Github:** [https://github.com/SimonWork-co/letter-from-late-night](https://github.com/SimonWork-co/letter-from-late-night)
+- **Github:** https://github.com/sangmokchoi/letter-from-late-night
 
 - **App Store:** [<밤편지> 다운로드 바로가기 ](https://apps.apple.com/kr/app/밤편지-마음을-주고-받는-편지-한-통/id6448700074)
 
